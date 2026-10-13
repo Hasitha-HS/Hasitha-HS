@@ -33,7 +33,9 @@ I am a **Software Engineer** with **2.5+ years of professional experience** spec
 ---
 
 ### 📫 Connect with Me
-
 - **LinkedIn:** [linkedin.com/in/hasitha24](https://www.linkedin.com/in/hasitha24/)
 - **Email:** [hasitha24hs@gmail.com](mailto:hasitha24hs@gmail.com)
 - **Location:** Colombo, Sri Lanka
+  
+  ### 📄 Resume / CV
+[📥 Download My Resume (PDF)](./Hasitha_Senevirathne_CV.pdf)
