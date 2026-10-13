@@ -17,13 +17,13 @@ I am a **Software Engineer** with **2.5+ years of professional experience** spec
 
 ### 🚀 Key Projects & Commercial Work
 
-- **Twin Turbo Platform:** Full-stack web and mobile platform featuring custom UI components, server-side rendering (SSR) for optimal SEO, and Docker containerization[cite: 3].
-- **Genie Mobile App (Dialog Finance):** Developed backend microservice features with JWT security layers, PostgreSQL query optimizations, and React admin portal components[cite: 3].
-- **NexPOS System (Nexeyo Solutions):** Managed feature development integrating .NET REST services with Point-of-Sale devices and ZKTeco biometric fingerprint/attendance hardware[cite: 3].
-- **Median Entertainment Server Infrastructure:** Configured headless Linux server environments using Wine and Xvfb (X Virtual Framebuffer) to host Windows-native server applications[cite: 3].
-- **Simple Expense Tracker Mobile Application:** Developed a cross-platform mobile expense tracking application focused on intuitive UI/UX and quick financial logging[cite: 3].
-- **E-Seat Bus Booking System:** Optimized complex SQL queries and led frontend migration to React with Redux state management for a government public transport booking system[cite: 3].
-- **Discord Support Agent & Automation Pipeline:** Engineered an automated Discord support agent powered by Python, n8n, and the Gemini API with asynchronous requests and secure Tailscale tunnels[cite: 3].
+- **Twin Turbo Platform:** Full-stack web and mobile platform featuring custom UI components, server-side rendering (SSR) for optimal SEO, and Docker containerization.
+- **Genie Mobile App (Dialog Finance):** Developed backend microservice features with JWT security layers, PostgreSQL query optimizations, and React admin portal components.
+- **NexPOS System (Nexeyo Solutions):** Managed feature development integrating .NET REST services with Point-of-Sale devices and ZKTeco biometric fingerprint/attendance hardware.
+- **Median Entertainment Server Infrastructure:** Configured headless Linux server environments using Wine and Xvfb (X Virtual Framebuffer) to host Windows-native server applications.
+- **Simple Expense Tracker Mobile Application:** Developed a cross-platform mobile expense tracking application focused on intuitive UI/UX and quick financial logging.
+- **E-Seat Bus Booking System:** Optimized complex SQL queries and led frontend migration to React with Redux state management for a government public transport booking system.
+- **Discord Support Agent & Automation Pipeline:** Engineered an automated Discord support agent powered by Python, n8n, and the Gemini API with asynchronous requests and secure Tailscale tunnels.
 
 ---
 
