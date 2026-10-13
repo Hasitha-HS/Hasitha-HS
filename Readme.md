@@ -38,4 +38,4 @@ I am a **Software Engineer** with **2.5+ years of professional experience** spec
 - **Location:** Colombo, Sri Lanka
   
   ### 📄 Resume / CV
-[📥 Download My Resume (PDF)](./Hasitha Senevirathne.pdf)
+[📥 Download My Resume (PDF)](./Hasitha_Senevirathne.pdf)
